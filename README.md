@@ -28,7 +28,7 @@
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
 
-## <a name="introduction">🤖 Introduction</a>
+## <a name="introduction">Introduction</a>
 
 Explore social media with this user-friendly platform that has a nice look and lots of features. Easily create and explore posts, and enjoy a strong authentication system and quick data fetching using React Query for a smooth user experience.
 
@@ -45,7 +45,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 - Shadcn
 - Tailwind CSS
 
-## <a name="features">🔋 Features</a>
+## <a name="features">Features</a>
 
 👉 **Authentication System**: A robust authentication system ensuring security and user privacy
 
@@ -71,7 +71,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 and many more, including code architecture and reusability 
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start">Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
