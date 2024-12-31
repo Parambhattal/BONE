@@ -21,16 +21,18 @@ const Topbar = () => {
           <img
             src="/assets/images/logo.svg"
             alt="logo"
-            width={130}
+            width={40}
             height={325}
           />
+          <span className="text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-500 drop-shadow-lg uppercase">BONE</span> {/* Added text here */}
         </Link>
 
         <div className="flex gap-4">
           <Button
             variant="ghost"
             className="shad-button_ghost"
-            onClick={() => signOut()}>
+            onClick={() => signOut()}
+          >
             <img src="/assets/icons/logout.svg" alt="logout" />
           </Button>
           <Link to={`/profile/${user.id}`} className="flex-center gap-3">
